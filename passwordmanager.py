@@ -3,8 +3,7 @@ import os
 import random
 import string
 import tkinter as tk
-from tkinter import messagebox
-
+from tkinter import messagebox
 PASSWORD_FILE = "passwords.json"
 
 def load_passwords():
